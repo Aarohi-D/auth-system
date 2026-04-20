@@ -39,6 +39,19 @@ POST /api/auth/login
 
 GET /api/auth/dashboard (Protected)
 
+# Project Structure
+## Backend files:
+- server.js
+- app.js
+- routes/
+- models/
+- middleware/
+
+## Frontend files:
+- src/
+- components/
+- pages (Login, Signup, Dashboard)
+
 # Setup
 
 ## Backend
